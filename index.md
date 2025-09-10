@@ -2,7 +2,8 @@
 
 Scroll down for more examples.
 
-Time-specific accessibility - Middlemore Hospital
+Time-specific accessibility - Middlemore Hospital.
+Move from left to right for rush hour (5PM). Move from right to left for night time (3AM).
 
 <iframe id="middlemore" src="middlemoretimespecific.html" height="700" width="700"></iframe>
 

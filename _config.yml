@@ -1,4 +1,3 @@
 theme: jekyll-theme-minimal
 title: Accessibility Testing
-description: This website demonstrates how to publish maps on github pages. The maps are build using the mapboxapi package and then visualised using mapgl. 
-I have used examples of Middlemore hospital (Auckland, New Zealand) and the Royal Victoria Hospital (RVH) in Belfast.
+description: This website demonstrates how to publish maps on github pages. The maps are build using the mapboxapi package and then visualised using mapgl. I have used examples of Middlemore hospital (Auckland, New Zealand) and the Royal Victoria Hospital (RVH) in Belfast.

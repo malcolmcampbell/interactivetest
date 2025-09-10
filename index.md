@@ -1,4 +1,4 @@
 ## Hospital Access by time
 
 Time specific accessibility
-<iframe src="middlemoretimespecific.html" height="500" width="500"></iframe>
+<iframe src="middlemoretimespecific.html" height="800" width="800"></iframe>

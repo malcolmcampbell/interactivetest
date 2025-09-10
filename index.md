@@ -1,5 +1,7 @@
 ## Hospital Access by time
 
+Scroll down for more examples.
+
 Time-specific accessibility - Middlemore Hospital
 
 <iframe id="middlemore" src="middlemoretimespecific.html" height="700" width="700"></iframe>
